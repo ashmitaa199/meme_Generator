@@ -60,6 +60,8 @@ main {
 }
 .img-container{
  align-items: center;
+ 
+ margin-left: 26%;
 }
 /* .form--label{
   margin-bottom: 5px;
